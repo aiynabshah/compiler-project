@@ -1,0 +1,27 @@
+void main(){
+for(i=a;i<=n;i++){
+for(i=a;i<=n;i++){
+if(a+b==d-g||a-x==d){
+for(i=a;i<=n;i++){
+int a=b-c;
+z=c-f;
+x=y+d;
+switch(ide){
+case 12:
+a=b+c;
+break;
+default:
+c=b-6;
+break;
+}
+}
+}
+else if(a==c){
+c=b*a;
+}
+else{
+a=b-c;
+}
+}
+}
+}
